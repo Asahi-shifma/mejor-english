@@ -447,7 +447,7 @@ export default function App() {
             無料モニターのご応募・お問い合わせ
           </h2>
           <p className="text-slate-400 text-sm mb-6 max-w-lg mx-auto">
-            ご質問やモニター応募は公式InstagramのDMよりお気軽にご連絡ください。
+            ご質問やご相談等は公式InstagramのDMよりお気軽にご連絡ください。
           </p>
           <a
             href="https://www.instagram.com/mejorenglish"
